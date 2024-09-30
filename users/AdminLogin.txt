@@ -1,2 +1,5 @@
 ADMIN username: tyler
 ADMIN password: test123
+
+TestUser username: TestUser
+TestUser password: test123321
